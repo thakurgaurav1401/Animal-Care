@@ -7,7 +7,7 @@
 .wrapper{
   max-inline-size: 1000px;
   margin-inline: auto; 
-  padding: 20px;
+  padding: 5px;
 }
 #nav{
   display: flex;
@@ -598,4 +598,205 @@ a {
 
 .contact-info p {
   margin: 10px 0;
+}
+
+/* healthtips */
+/* Header Section */
+.health-intro {
+  background: linear-gradient(135deg, #e0f7fa, #a5d6a7);
+  text-align: center;
+  padding: 40px 20px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+.health-intro h1 {
+  color: #1e88e5; /* Blue */
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.health-intro p {
+  color: #2e7d32; /* Green */
+  font-size: 1.2rem;
+}
+
+/* Tips Section */
+.tip {
+  background-color: #ffffff;
+  border-left: 6px solid #4caf50; /* Green accent */
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.tip h2 {
+  color: #1e88e5; /* Blue */
+  margin-bottom: 10px;
+}
+
+.tip p,
+.tip ul li {
+  color: #37474f;
+}
+
+/* First Aid List */
+#first-aid ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+#first-aid li {
+  margin-bottom: 10px;
+}
+
+/* FAQ Section */
+.faq {
+  background-color: #e8f5e9;
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.faq h2 {
+  color: #2e7d32;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+.faq-item h3 {
+  color: #1e88e5;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.faq-item p {
+  color: #455a64;
+  margin-left: 10px;
+}
+
+/* Responsive Adjustments */
+@media screen and (max-width: 768px) {
+  .health-intro h1 {
+    font-size: 2rem;
+  }
+
+  .faq h2 {
+    font-size: 1.5rem;
+  }
+
+  .tip {
+    padding: 15px;
+  }
+}
+
+.footer {
+  background-color: #e0f2f1; /* Light greenish background */
+  color: #2e7d32;
+  padding: 40px 20px 20px;
+  margin-top: 50px;
+  border-top: 3px solid #4caf50;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.footer-logo img {
+  width: 60px;
+  height: auto;
+}
+
+.footer-logo h3 {
+  margin-top: 10px;
+  color: #1e88e5;
+  font-size: 1.5rem;
+}
+
+.footer-logo p {
+  font-size: 0.95rem;
+  margin-top: 5px;
+}
+
+.footer-links h4,
+.footer-contact h4 {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+  color: #1e88e5;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  margin-bottom: 6px;
+}
+
+.footer-links ul li a {
+  color: #2e7d32;
+  text-decoration: none;
+}
+
+.footer-links ul li a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact p {
+  margin: 4px 0;
+  font-size: 0.95rem;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #a5d6a7;
+  padding-top: 15px;
+  font-size: 0.9rem;
+  color: #4e7d6b;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-logo img {
+    margin: auto;
+  }
+}
+
+
+/* NGO Styling */
+input[type="text"] {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.ngo-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.ngo-card {
+  background: #e6f2e6;
+  padding: 15px;
+  border-left: 5px solid #2e8b57;
+  border-radius: 6px;
 }
