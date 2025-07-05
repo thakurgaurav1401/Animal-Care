@@ -1,0 +1,209 @@
+[
+    
+    {
+      "image": "https://give.do/blog/wp-content/uploads/2023/12/Healing-paws-the-mission-of-an-animal-NGO-in-India-to-rescue-stray-dogs-from-cruelty-Give-blog.png",
+      "title": "Bhoori Foundation",
+      "description": "Local rescue organisation assisting stray indie dogs in Patna.",
+      "state": "Bihar",
+      "city": "Patna",
+      "address": "Patna, Bihar",
+      "contact": { "phone": "+91-9999999001", "email": "bhoorifoundation@ngo.org" }
+    },
+    
+    {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_VMT0yYq5R655nXn0r3Bbbltqgvf2I0B1w&s",
+      "title": "Vikramshila Gangetic Dolphin Sanctuary",
+      "description": "Protected river habitat near Patna for conservation of dolphins & aquatic wildlife.",
+      "state": "Bihar",
+      "city": "Bhagalpur (near Patna)",
+      "address": "Sultanganj–Kahalgaon stretch, Bihar",
+      "contact": { "phone": "+91-9999999003", "email": "vikramshilagangeticdolphinsanctuary@ngo.org" }
+    },
+    {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW6mt6Jrv9lM-l07dlswkCWdwGYBYsNh7-jQ&s",
+      "title": "People for Animals (PFA) Bihar",
+      "description": "State branch of India's largest animal welfare group handling strays & wildlife rescue.",
+      "state": "Bihar",
+      "city": "Patna",
+      "address": "Patna, Bihar",
+      "contact": { "phone": "+91-9999999004", "email": "peopleforanimalspfabihar@ngo.org" }
+    },
+    {
+      "image":"https://static.toiimg.com/thumb/imgsize-23456,msid-88879053,width-600,resizemode-4/88879053.jpg",
+      "title": "Street Animal Welfare (Patna volunteers)",
+      "description": "Local volunteer rescue & sterilization drives for strays in Patna.",
+      "state": "Bihar",
+      "city": "Patna",
+      "address": "Various Patna neighbourhoods",
+      "contact": { "phone": "+91-9999999005", "email": "streetanimalwelfarepatnavolunteers@ngo.org" }
+    },
+  
+   
+    {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELGYqyA6qHCQEtMCm85iJ2x2LMIPe3TCxBQ&s",
+      "title": "Sanjay Gandhi Animal Care Centre",
+      "description": "Delhi's largest city-run shelter treating & rehabilitating strays since 1980.",
+      "state": "Delhi",
+      "city": "Delhi",
+      "address": "Raja Garden, Delhi, 110027",
+      "contact": { "phone": "+91-9999999006", "email": "sanjaygandhianimalcarecentre@ngo.org" }
+    },
+    {
+      "image":"https://dogexpress.in/wp-content/uploads/2018/03/Friendicoes-SECA.png",
+      "title": "Friendicoes SECA",
+      "description": "Shelter & ambulance service; rescues 1,000+ animals/year in Delhi NCR.",
+      "state": "Delhi",
+      "city": "Delhi",
+      "address": "Defence Colony Flyover Market, Delhi 110024",
+      "contact": { "phone": "+91-9999999007", "email": "friendicoesseca@ngo.org" }
+    },
+    {
+      "image":"https://assets.telegraphindia.com/telegraph/2020/Jul/1595765227_27jamantirabies-2.jpg",
+      "title": "Red Paws Rescue",
+      "description": "Foster-based rescue network for stray dogs and cats in New Delhi.",
+      "state": "Delhi",
+      "city": "Delhi",
+      "address": "Hauz Khas Village, New Delhi 110016",
+      "contact": { "phone": "+91-9999999008", "email": "redpawsrescue@ngo.org" }
+    },
+    {
+      "image":"https://imgv2-1-f.scribdassets.com/img/document/511889869/original/4f7a8a49c9/1?v=1",
+      "title": "Abhay Daanam",
+      "description": "Bird & animal hospital with ambulance services in Ghaziabad/Delhi region.",
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "address": "Karol Bagh, Delhi & Indirapuram, Ghaziabad",
+      "contact": { "phone": "+91-9999999009", "email": "abhaydaanam@ngo.org" }
+    },
+    {
+      "image":"https://static.toiimg.com/thumb/msid-99800609,imgsize-1567856,width-400,height-225,resizemode-72/prevent-animal-cruelty.jpg",
+      "title": "People for Animals (PFA) Delhi",
+      "description": "National animal welfare organisation with rescue & treatment in Delhi.",
+      "state": "Delhi",
+      "city": "Delhi",
+      "address": "Sansad Marg Area, New Delhi 110001",
+      "contact": { "phone": "+91-9999999010", "email": "peopleforanimalspfadelhi@ngo.org" }
+    },
+  
+    
+    {
+      "image":"https://bluecrossofindia.org/images/infiniteslider_17.png",
+      "title": "Blue Cross of India",
+      "description": "One of the oldest shelters & hospitals for stray animals in Chennai & Mumbai circuits.",
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "address": "1-A, Eldams Road, Alwarpet, Chennai 600018",
+      "contact": { "phone": "+91-9999999011", "email": "bluecrossofindia@ngo.org" }
+    },
+    {
+      "image":"https://static.toiimg.com/thumb/msid-84653034,imgsize-147952,width-400,height-225,resizemode-72/84653034.jpg",
+      "title": "Bombay SPCA",
+      "description": "Mumbai SPCA cares for dogs, cats, cattle, horses with 24‑hr hospital since 1874.",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Parel, Mumbai, Maharashtra 400012",
+      "contact": { "phone": "+91-9999999012", "email": "bombayspca@ngo.org" }
+    },
+    {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGHZdJD9RklVQywrBeIYDVTqkP4KQq-jJGw&s",
+      "title": "Mumbai Animal Association",
+      "description": "Local rescue & rehab for street animals in suburban Mumbai.",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Kandivali/Borivali suburbs, Mumbai",
+      "contact": { "phone": "+91-9999999013", "email": "mumbaianimalassociation@ngo.org" }
+    },
+    {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNqsJQtmyEqp8pL9YD_rlVcoDlArSSF8UCw&s",
+      "title": "PAWS Mumbai",
+      "description": "Plant & Animals Welfare Society – street rescue, sterilisation & adoptions.",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Mulund, Mumbai, Maharashtra",
+      "contact": { "phone": "+91-9999999014", "email": "pawsmumbai@ngo.org" }
+    },
+    {
+      "image":"https://imgmediagumlet.lbb.in/media/2021/03/603e2853c11b8c60b2210a84_1614686291472.jpg",
+      "title": "Welfare for Stray Dogs (WSD)",
+      "description": "Mumbai NGO focusing on vaccination, sterilization & rescue since 1985.",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "address": "Mumbai, Maharashtra",
+      "contact": { "phone": "+91-9999999015", "email": "welfareforstraydogswsd@ngo.org" }
+    },
+    {
+        "image":"https://dogexpress.in/wp-content/uploads/2018/03/Second-Chance-Adoption-Centre-1.png",
+        "title": "CUPA Trauma Centre",
+        "description": "Veterinary hospital by Compassion Unlimited Plus Action for rescue & treatment of injured strays.",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "address": "KVAFSU Veterinary College Campus, Bellary Road, Hebbal, Bangalore – 560024",
+        "contact": { "phone": "+91-9999999016", "email": "cupatraumacentre@ngo.org" }
+      },
+      {
+        "image":"https://pbs.twimg.com/media/FSig-7FaQAAms02.jpg:large",
+        "title": "Charlie's Animal Rescue Centre (CARE)",
+        "description": "Rescue, adoption, medical care of cats & dogs in need across Bengaluru.",
+        "state": "Karnataka",
+        "city": "Bangalore",
+        "address": "Survey No.124, Mitteganahalli Cross, Kogilu Village, Yelahanka Hobli, Bangalore North – 560064",
+        "contact": { "phone": "+91-9999999017", "email": "charliesanimalrescuecentrecare@ngo.org" }
+      },
+      
+      {
+        "image":"https://genv.org/wp-content/uploads/2021/01/Animal-Cruelty-Dog-Image-from-Pixabay-1-400x267.jpg",
+        "title": "Animal Welfare Society (Kushinagar)",
+        "description": "Promotes awareness & welfare in rural UP, including animal husbandry and wildlife care.",
+        "state": "Uttar Pradesh",
+        "city": "Kushinagar",
+        "address": "Deuliha Maniya Chapra, Post Laxmiganj, District Kushinagar, UP 274306",
+        "contact": { "phone": "+91-9999999024", "email": "animalwelfaresocietykushinagar@ngo.org" }
+      },
+      {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjfn3S792thcUVXMbVb-Ff-IdhCrl-gTo1Q&s",
+        "title": "Wildlife Trust of India (WTI)",
+        "description": "National wildlife conservation group based in Noida; covers rescue, rehabilitation, enforcement.",
+        "state": "Uttar Pradesh",
+        "city": "Noida",
+        "address": "Noida, Uttar Pradesh",
+        "contact": { "phone": "+91-9999999025", "email": "wildlifetrustofindiawti@ngo.org" }
+      },    
+      {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_1BRNhpNNZvZrssTwHQoQ9Y2NQ8l-97BWw&s",
+        "title": "Jivdaya Charitable Trust",
+        "description": "Provides free medical care to unowned domestic animals and runs a rehabilitation centre for birds and small mammals; operates mobile clinics in Ahmedabad.",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "address": "Panjrapol Campus, Ambawadi, Ahmedabad, Gujarat 380015",
+        "contact": { "phone": "+91-9999999026", "email": "jivdayacharitabletrust@ngo.org" }
+      },
+      
+      {
+        "image":"https://www.baroda.com/webfiles/ShopTalkGallery/Vadodara%20Centre%20for%20Animal%20Rescue%20&%20Emergency%20(VCARE)/Large/13032021023900-vcare-pic06.jpg",
+        "title": "VADODARA SPCA",
+        "description": "Animal ambulance, hospital, shelter, ABC program, adoption services in Vadodara.",
+        "state": "Gujarat",
+        "city": "Vadodara",
+        "address": "Chapad (Padra), Near Vadodara‑391440, Gujarat",
+        "contact": { "phone": "+91-9999999028", "email": "vadodaraspcaspca@ngo.org" }
+      },
+      {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUYORkwEYoErIjt2l3Kys4o1FgLGIsO5pQA&s",
+        "title": "Animal Rescue Trust (Vadodara)",
+        "description": "Registered trust working in animal husbandry, rescue, rehabilitation across Gujarat.",
+        "state": "Gujarat",
+        "city": "Vadodara",
+        "address": "B11 Khodal Nagar Soc, Vishvamitri Road, Manjalpur, Vadodara",
+        "contact": { "phone": "+91-9999999029", "email": "animalrescuetrustvadodara@ngo.org" }
+      },
+      {
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE7-f30J4Y260TNvlMZTUqRAWWOMIaGD8--Q&s",
+        "title": "Nature Club Surat",
+        "description": "Environment conservation and animal welfare including rescue of animals after natural disasters and pet check‑up camps.",
+        "state": "Gujarat",
+        "city": "Surat",
+        "address": "81, Sarjan Society, Athwalines, Surat, Gujarat 395007",
+        "contact": { "phone": "+91-9999999030", "email": "natureclubsurat@ngo.org" }
+      }
+  ]
+  
